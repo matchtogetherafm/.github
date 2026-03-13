@@ -79,12 +79,14 @@
 
 | 구분 | 기술 |
 |------|------|
-| Framework | |
-| Language | |
-| Database | |
-| ORM | |
+| Framework | Spring Boot 3, Spring Security |
+| Language | Java 21 |
+| Database | MySQL, Redis |
+| ORM | JPA, JDBC, QueryDSL |
 | Authentication | JWT (Access + Refresh Token) |
-| Deployment | |
+| Build Tool | Gradle |
+| API Docs | Spring REST Docs, Swagger UI |
+| Deployment | Docker, AWS |
 
 ## 7. 문서 자료
 
